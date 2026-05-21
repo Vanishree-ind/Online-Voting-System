@@ -9,3 +9,4 @@ voter_id,Name,Gender,Zone,City,Passw,hasVoted,DateOfBirth
 10008,geeta,Female,hulsad,mudool,5678,0,2004-06-08
 10009,swetha,Female,haveri,haveri,1234,0,2004-03-06
 10010,vani,Female,dhavalagiri,dharwad,1234,1,2005-03-04
+10011,geeta,Female,sudi,ron,5678,0,2006-03-04
