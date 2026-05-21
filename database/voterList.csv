@@ -1,0 +1,11 @@
+voter_id,Name,Gender,Zone,City,Passw,hasVoted,DateOfBirth
+10001,Deep,Male,West,Gandhinagar,abcd,0,2000-01-15
+10002,Prachi,Female,South,Surat,abcd,0,1998-06-22
+10003,Het,Male,East,Surat,abcd,0,2002-03-10
+10004,Shivanshi,Female,East,Gandhinagar,abcd,0,1995-11-05
+10005,Dev,Male,North,Ahmedabad,abcd,0,2001-08-30
+10006,abc,Male,bangalore south,bangalore,1234,0,1998-07-07
+10007,suma,Female,dhavalagiri,dharwad,1234,0,1995-06-09
+10008,geeta,Female,hulsad,mudool,5678,0,2004-06-08
+10009,swetha,Female,haveri,haveri,1234,0,2004-03-06
+10010,vani,Female,dhavalagiri,dharwad,1234,1,2005-03-04
